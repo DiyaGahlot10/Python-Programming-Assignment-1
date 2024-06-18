@@ -1,0 +1,1 @@
+string_input=input("Enter th string : ")
